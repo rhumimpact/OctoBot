@@ -1,0 +1,10 @@
+{
+  "exchanges": {
+    "bitget": {
+      "api-key": "bg_b1a9defc0973df2f7c2573aef321a53e",
+      "api-secret": "a9cf7f36635473482178aef5adc97d1b9616576a66741b7d78892ce4efe0edc3",
+      "api-password": "TA_PHRASE_SECRÈTE",
+      "sandboxed": false
+    }
+  }
+}
